@@ -1,0 +1,9 @@
+stage,name,start_day,duration_days,excavation_depth_m,active_floor
+0,착공 및 가설,1,20,0,GROUND
+1,CIP 및 PRD 시공,21,80,0,GROUND
+2,1차 굴착 및 1층 슬래브,101,45,4,B1
+3,2차 굴착 및 지하1층 슬래브,146,45,8,B2
+4,3차 굴착 및 지하2층 슬래브,191,45,12,B3
+5,4차 굴착 및 지하3층 슬래브,236,50,16,B4
+6,기초 굴착 및 매트기초,286,60,20,MAT
+
